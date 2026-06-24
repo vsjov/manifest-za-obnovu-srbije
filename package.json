@@ -7,7 +7,7 @@
     "url": "git+https://github.com/vsjov/manifest-za-obnovu-srbije.git"
   },
   "scripts": {
-    "build": "pannonico build . --empty-out-dir",
+    "build": "pannonico build . --empty-out-dir --compress",
     "watch": "pannonico watch"
   },
   "devDependencies": {

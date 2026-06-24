@@ -1,0 +1,86 @@
+######################
+# OS generated files #
+######################
+*/.DS_Store
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+sh.exe.stackdump
+.sass-cache/*
+.fleet
+.idea
+
+# Local env files
+.env
+.env.*
+!.env.example
+
+#################
+# Project files #
+#################
+
+# Temporary files
+undefined
+**/temp/
+**/*.old.*
+**/*.temp.*
+**/__visual__/**/new/
+**/__visual__/**/diff/
+*.log
+.nx/
+
+# NodeJS files
+node_modules/*
+package-lock.json
+npm-debug.log
+yarn-error.log
+
+# compiled output
+dist
+tmp
+/out-tsc
+*.tsbuildinfo
+*.*.tsbuildinfo
+**/*.tsbuildinfo
+**/*.*.tsbuildinfo
+**/*.egg-info
+playwright-report
+**/playwright-report
+**/playwright-report/**/*
+
+# dependencies
+node_modules
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+/connect.lock
+/coverage
+/libpeerconnection.log
+testem.log
+/typings
+vite.config.*.timestamp*
+vitest.config.*.timestamp*
+test-results
+.cursor/rules/nx-rules.mdc
+.github/instructions/nx.instructions.md
+.codex
+.claude

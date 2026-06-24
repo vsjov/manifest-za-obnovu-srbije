@@ -1,0 +1,18 @@
+{
+  "name": "manifest-za-obnovu-srbije",
+  "version": "0.0.1",
+  "description": "Korupcija ubija. Istina oslobađa.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsjov/manifest-za-obnovu-srbije.git"
+  },
+  "scripts": {
+    "build": "pannonico build . --empty-out-dir",
+    "watch": "pannonico watch"
+  },
+  "devDependencies": {
+    "@vsjov/pannonico": "^0.0.2"
+  },
+  "author": "Vladimir Jovanović <vladimir@webdizajn.org>",
+  "license": "CC-BY-NC-ND-4.0"
+}

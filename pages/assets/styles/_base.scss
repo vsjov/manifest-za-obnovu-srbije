@@ -1,0 +1,52 @@
+// =============================================================================
+// Base typography & inline elements
+// =============================================================================
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-body);
+  font-size: var(--text-base);
+  line-height: var(--leading-body);
+  font-kerning: normal;
+}
+
+p {
+  margin-block: 0 var(--space-md);
+  text-wrap: pretty;
+}
+
+a {
+  color: var(--color-accent);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+  transition: color 0.15s ease;
+
+  &:hover,
+  &:focus {
+    color: var(--color-accent-strong);
+  }
+}
+
+strong,
+b {
+  font-weight: 700;
+  color: var(--color-heading);
+}
+
+em,
+i {
+  font-style: italic;
+}
+
+small {
+  font-size: var(--text-sm);
+}
+
+mark {
+  background: var(--color-mark);
+  color: inherit;
+  padding: 0 0.15em;
+  border-radius: 2px;
+}

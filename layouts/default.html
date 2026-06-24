@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="{{#if lang}}{{lang}}{{else}}en{{/if}}">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta generator="Pannonico" />
+    {{#if metaDescription}}
+    <meta name="description" content="{{metaDescription}}" />
+    {{/if}}
+    <title>{{title}}</title>
+    {{> head}}
+  </head>
+  <body>
+    {{> header}}
+    <main>
+      {{> @partial-block}}
+    </main>
+    {{> footer}}
+  </body>
+</html>

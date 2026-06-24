@@ -1,0 +1,65 @@
+// =============================================================================
+// Print styles — make the manifesto a clean printable / PDF document
+// =============================================================================
+
+@media print {
+  :root {
+    --color-bg: #ffffff;
+    --color-text: #000000;
+    --color-heading: #000000;
+    --color-text-muted: #333333;
+    --color-rule: #999999;
+  }
+
+  body > header,
+  body > footer {
+    position: static;
+    border: 0;
+    background: none;
+    backdrop-filter: none;
+  }
+
+  body > header nav {
+    color: #000;
+  }
+
+  main {
+    max-width: none;
+    padding: 0;
+  }
+
+  a {
+    color: #000;
+    text-decoration: underline;
+  }
+
+  // Reveal footnote / citation destinations on paper.
+  sup a[href^='http']::after {
+    content: ' (' attr(href) ')';
+    font-size: 0.7em;
+    word-break: break-all;
+  }
+
+  .section-headline-1 {
+    break-before: page;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    break-after: avoid;
+  }
+
+  blockquote,
+  pre,
+  table,
+  figure {
+    break-inside: avoid;
+  }
+
+  p {
+    orphans: 3;
+    widows: 3;
+  }
+}

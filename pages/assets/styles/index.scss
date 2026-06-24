@@ -1,0 +1,19 @@
+// =============================================================================
+// The Manifesto for a New Serbia — site stylesheet (entry point)
+//
+// Compiled by static-site-builder (Vite + modern Sass). Linked from the layout
+// head via `/assets/styles/index.scss`. Module order matters: tokens must come
+// first so the custom properties exist before any rule consumes them.
+//
+// Goals: responsive layout, readable long-form typography, and generous white
+// space that clearly separates the manifesto's parts, chapters and principles.
+// =============================================================================
+
+@use 'tokens';
+@use 'reset';
+@use 'base';
+@use 'layout';
+@use 'content';
+@use 'sections';
+@use 'controls';
+@use 'print';

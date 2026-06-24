@@ -1,0 +1,75 @@
+// =============================================================================
+// Headline sections
+//
+// Emitted when a markdown page sets `headlineSections: true`. Each heading and
+// the content beneath it (until the next heading of equal-or-higher priority)
+// is wrapped in `.section-headline.section-headline-N`. We use the wrappers to
+// drive vertical rhythm: deeper levels get progressively less separation.
+// =============================================================================
+
+// The heading that opens a section drives spacing via the wrapper, not itself.
+.section-headline > :first-child {
+  margin-top: 0;
+}
+
+// Level 2 wrappers become full-bleed bands while their inner content stays
+// aligned to the main reading column.
+.section-headline-2 {
+  // margin-top: var(--space-2xl);
+  margin-inline: calc(50% - 50vw);
+  padding-block: var(--space-xl);
+  padding-inline: max(var(--page-padding), calc(50vw - (var(--measure) / 2)));
+  background: transparent;
+
+  > h2 {
+    text-align: center;
+    padding-bottom: var(--space-md);
+  }
+
+  > * {
+    max-width: var(--measure);
+    margin-inline: auto;
+  }
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+.section-headline-2:nth-of-type(even) {
+  background: color-mix(in srgb, var(--color-surface) 72%, var(--color-heading) 10%);
+}
+
+// Level 1 — major parts: strongest separation + accent underline.
+.section-headline-1 {
+  margin-top: var(--space-3xl);
+
+  > h1 {
+    padding-bottom: var(--space-sm);
+    border-bottom: 2px solid var(--color-accent);
+    text-align: center;
+  }
+}
+
+// Level 2 — numbered chapters / principles.
+// Level 3 — sub-sections.
+.section-headline-3 {
+  margin-top: var(--space-xl);
+}
+
+// Levels 4–6 — keep the rhythm tightening.
+.section-headline-4,
+.section-headline-5,
+.section-headline-6 {
+  margin-top: var(--space-lg);
+}
+
+// The first section on a page hugs the top of the reading column.
+main > .section-headline:first-child {
+  margin-top: 0;
+}
+
+h1 + blockquote {
+  text-align: center;
+  border-left: none;
+}

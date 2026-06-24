@@ -1,0 +1,44 @@
+// =============================================================================
+// Page skeleton — header, main reading column, footer
+// =============================================================================
+
+// Sticky site header --------------------------------------------------------
+body > header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  border-bottom: var(--border-thin);
+  background: color-mix(in srgb, var(--color-bg) 90%, transparent);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+
+  nav {
+    max-width: var(--measure-wide);
+    margin-inline: auto;
+    padding: var(--space-md) var(--page-padding);
+    font-family: var(--font-heading);
+    font-weight: 700;
+    font-size: var(--text-sm);
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--color-secondary);
+  }
+}
+
+// Reading column ------------------------------------------------------------
+main {
+  max-width: var(--measure);
+  margin-inline: auto;
+  padding: clamp(2rem, 6vw, 4rem) var(--page-padding) 0;
+}
+
+// Site footer ---------------------------------------------------------------
+body > footer {
+  border-top: var(--border-thin);
+  padding: var(--space-xl) var(--page-padding);
+  text-align: center;
+  font-family: var(--font-heading);
+  font-size: var(--text-sm);
+  letter-spacing: 0.02em;
+  color: var(--color-text-muted);
+}

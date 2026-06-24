@@ -1,0 +1,106 @@
+// =============================================================================
+// Header controls — theme toggle + font-size switcher
+// =============================================================================
+
+// Shared button base ----------------------------------------------------------
+.btn-control {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2xs);
+  padding: var(--space-2xs) var(--space-sm);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  background: transparent;
+  color: var(--color-text-muted);
+  font-family: var(--font-heading);
+  font-size: var(--text-sm);
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
+
+  &:hover,
+  &:focus-visible {
+    color: var(--color-heading);
+    border-color: var(--color-accent);
+    outline: none;
+  }
+
+  &.is-active {
+    color: var(--color-accent);
+    border-color: var(--color-accent);
+    background: color-mix(in srgb, var(--color-accent) 8%, transparent);
+  }
+}
+
+// Header nav layout -----------------------------------------------------------
+header nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-md);
+  flex-wrap: wrap;
+}
+
+.site-title {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: var(--text-sm);
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--color-secondary);
+}
+
+// Control group ---------------------------------------------------------------
+.header-controls {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  flex-wrap: wrap;
+}
+
+.header-controls > .translation {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.header-controls > .translation > li {
+  margin: 0;
+  padding-left: 0;
+}
+
+.header-controls > .translation a {
+  font-family: var(--font-heading);
+  font-size: var(--text-sm);
+  font-weight: 600;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: var(--color-secondary);
+}
+
+.header-controls > .translation a:hover,
+.header-controls > .translation a:focus-visible {
+  color: var(--color-accent);
+}
+
+.font-size-controls {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2xs);
+
+  // Size labels: each button is slightly sized to hint at its purpose
+  [data-font-size='small']  { font-size: 0.75rem; }
+  [data-font-size='medium'] { font-size: 0.875rem; }
+  [data-font-size='large']  { font-size: 1rem; }
+}
+
+// Theme toggle ----------------------------------------------------------------
+.btn-theme {
+  min-width: 6rem;
+  justify-content: center;
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Srpski",
+    "title": "sr",
+    "code": "sr-Latn",
+    "icon": "serbia"
+  },
+  {
+    "name": "English",
+    "title": "en",
+    "code": "en",
+    "icon": "great-britain"
+  }
+]

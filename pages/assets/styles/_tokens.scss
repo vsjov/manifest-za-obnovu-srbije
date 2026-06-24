@@ -1,0 +1,110 @@
+// =============================================================================
+// Design tokens
+//
+// All values are exposed as CSS custom properties so they can cascade, be
+// overridden per-section, and switch automatically for dark mode / print.
+// Colours nod to the Serbian tricolour (deep red + deep blue) on warm paper.
+// =============================================================================
+
+:root {
+  // Palette ------------------------------------------------------------------
+  --color-bg: #fbfaf7;
+  --color-surface: #ffffff;
+  --color-text: #1c1b19;
+  --color-text-muted: #5d5a53;
+  --color-heading: #141312;
+  --color-accent: #b21a2b; // deep red
+  --color-accent-strong: #8c1422;
+  --color-secondary: #1f3a5f; // deep blue
+  --color-border: #e7e2d8;
+  --color-rule: #d9d3c6;
+  --color-mark: #fdeede;
+  --color-code-bg: #f3f0e9;
+  --color-selection: #f6d5da;
+
+  // Typography ---------------------------------------------------------------
+  // Serif body for long-form readability; sans headings for editorial contrast.
+  --font-body: 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', 'Georgia',
+    'Times New Roman', serif;
+  --font-heading: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, sans-serif;
+  --font-mono: ui-monospace, 'SFMono-Regular', 'Menlo', 'Consolas', monospace;
+
+  // Fluid type scale (min .. max across the viewport) ------------------------
+  --text-base: clamp(1.05rem, 0.98rem + 0.35vw, 1.2rem);
+  --text-sm: 0.875rem;
+  --text-lg: clamp(1.2rem, 1.1rem + 0.5vw, 1.45rem);
+  --h1: clamp(2.1rem, 1.55rem + 2.5vw, 3.4rem);
+  --h2: clamp(1.6rem, 1.3rem + 1.4vw, 2.25rem);
+  --h3: clamp(1.3rem, 1.15rem + 0.7vw, 1.6rem);
+  --h4: clamp(1.1rem, 1.05rem + 0.3vw, 1.25rem);
+
+  --leading-body: 1.72;
+  --leading-tight: 1.18;
+
+  // Spacing scale ------------------------------------------------------------
+  --space-2xs: 0.25rem;
+  --space-xs: 0.5rem;
+  --space-sm: 0.75rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2.5rem;
+  --space-2xl: 4rem;
+  --space-3xl: 6rem;
+
+  // Layout -------------------------------------------------------------------
+  --measure: 64rem; // optimal reading width (~100 chars)
+  --measure-wide: 76rem;
+  --page-padding: clamp(1.1rem, 5vw, 2.5rem);
+
+  --radius: 4px;
+  --border-thin: 1px solid var(--color-border);
+}
+
+// Dark mode colours (shared between OS preference and manual [data-theme] toggle)
+// ─────────────────────────────────────────────────────────────────────────────
+// Background is intentionally kept at a readable warm-dark level, not near-black.
+@mixin dark-palette {
+  --color-bg: #25231c;
+  --color-surface: #2e2b23;
+  --color-text: #e9e6df;
+  --color-text-muted: #a8a399;
+  --color-heading: #f5f2ea;
+  --color-accent: #ec6175;
+  --color-accent-strong: #f2879a;
+  --color-secondary: #8fb3d9;
+  --color-border: #3d3930;
+  --color-rule: #47433a;
+  --color-mark: #433020;
+  --color-code-bg: #2e2b22;
+  --color-selection: #6a2f3a;
+}
+
+// OS-level default (only when user has not manually set a theme)
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    @include dark-palette;
+  }
+}
+
+// Manual dark override (set via JS widget)
+:root[data-theme="dark"] {
+  @include dark-palette;
+}
+
+// Font-size overrides (set via JS widget) -------------------------------------
+:root[data-font-size="small"] {
+  --text-base: clamp(0.9rem, 0.84rem + 0.3vw, 1rem);
+  --text-lg: clamp(1.05rem, 0.98rem + 0.35vw, 1.2rem);
+  --h1: clamp(1.7rem, 1.3rem + 2vw, 2.8rem);
+  --h2: clamp(1.35rem, 1.15rem + 1vw, 1.9rem);
+  --h3: clamp(1.15rem, 1.05rem + 0.5vw, 1.4rem);
+}
+
+:root[data-font-size="large"] {
+  --text-base: clamp(1.2rem, 1.1rem + 0.5vw, 1.45rem);
+  --text-lg: clamp(1.4rem, 1.25rem + 0.7vw, 1.7rem);
+  --h1: clamp(2.5rem, 1.8rem + 3.2vw, 4.1rem);
+  --h2: clamp(1.9rem, 1.55rem + 1.7vw, 2.7rem);
+  --h3: clamp(1.5rem, 1.32rem + 0.9vw, 1.9rem);
+}

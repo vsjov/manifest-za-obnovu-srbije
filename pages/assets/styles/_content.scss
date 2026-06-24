@@ -1,0 +1,179 @@
+// =============================================================================
+// Long-form content — headings, lists, quotes, rules, footnotes, tables, code
+// =============================================================================
+
+// Headings ------------------------------------------------------------------
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-heading);
+  color: var(--color-heading);
+  line-height: var(--leading-tight);
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  text-wrap: balance;
+  margin-block: var(--space-xl) var(--space-sm);
+  scroll-margin-top: 5rem; // clears the sticky header on anchor jumps
+}
+
+h1 {
+  font-size: var(--h1);
+  letter-spacing: -0.025em;
+}
+
+h2 {
+  font-size: var(--h2);
+}
+
+h3 {
+  font-size: var(--h3);
+  color: var(--color-secondary);
+}
+
+h4 {
+  font-size: var(--h4);
+}
+
+h5,
+h6 {
+  font-size: var(--text-base);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-text-muted);
+}
+
+// Lists ---------------------------------------------------------------------
+ul,
+ol {
+  margin-block: 0 var(--space-md);
+  padding-left: 1.4em;
+
+  li {
+    margin-block: var(--space-2xs);
+    padding-left: 0.2em;
+  }
+}
+
+ul > li::marker {
+  color: var(--color-accent);
+}
+
+ol > li::marker {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  color: var(--color-secondary);
+}
+
+li > ul,
+li > ol {
+  margin-block: var(--space-2xs);
+}
+
+// Blockquote ----------------------------------------------------------------
+blockquote {
+  margin: var(--space-lg) 0;
+  padding-left: var(--space-lg);
+  border-left: 3px solid var(--color-accent);
+  color: var(--color-text-muted);
+  font-style: italic;
+  font-size: var(--text-lg);
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+// Horizontal rule — used liberally between manifesto sections ----------------
+hr {
+  border: 0;
+  height: 1px;
+  background: var(--color-rule);
+  margin-block: var(--space-xl);
+}
+
+// Footnote citations (rendered as <sup><a>N</a></sup>) -----------------------
+sup {
+  font-size: 0.7em;
+  line-height: 0;
+  vertical-align: super;
+
+  a {
+    text-decoration: none;
+    font-family: var(--font-heading);
+    font-weight: 600;
+    padding: 0 0.1em;
+
+    &:hover,
+    &:focus {
+      text-decoration: underline;
+    }
+  }
+}
+
+// Tables --------------------------------------------------------------------
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-block: var(--space-lg);
+  font-size: 0.95em;
+}
+
+th,
+td {
+  padding: var(--space-xs) var(--space-sm);
+  border-bottom: var(--border-thin);
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  color: var(--color-heading);
+  border-bottom: 2px solid var(--color-rule);
+}
+
+tbody tr:hover {
+  background: color-mix(in srgb, var(--color-accent) 5%, transparent);
+}
+
+// Code ----------------------------------------------------------------------
+code,
+kbd,
+samp {
+  font-family: var(--font-mono);
+  font-size: 0.9em;
+  background: var(--color-code-bg);
+  padding: 0.1em 0.35em;
+  border-radius: var(--radius);
+}
+
+pre {
+  background: var(--color-code-bg);
+  padding: var(--space-md);
+  margin-block: var(--space-lg);
+  border: var(--border-thin);
+  border-radius: var(--radius);
+  overflow-x: auto;
+
+  code {
+    background: none;
+    padding: 0;
+    font-size: 0.875rem;
+  }
+}
+
+// Figures -------------------------------------------------------------------
+figure {
+  margin-block: var(--space-lg);
+
+  figcaption {
+    margin-top: var(--space-xs);
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+    text-align: center;
+  }
+}

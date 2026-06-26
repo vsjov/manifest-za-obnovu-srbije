@@ -34,6 +34,8 @@ metaDescription: A set of principles written for every citizen of Serbia who see
 - [Principle IX - Cultural renewal and the return of identity from propaganda](#principle-ix--cultural-renewal-and-the-return-of-identity-from-propaganda)
 - [Principle X - The covenant of return](#principle-x--the-covenant-of-return--bringing-the-people-home)
 - [Principle XI - The separation of church and state](#principle-xi--the-separation-of-church-and-state--faith-without-vassalage)
+- [Principle XII - Lustration and the ban on the return of the state's captors](#principle-xii--lustration-and-the-ban-on-the-return-of-the-states-captors)
+- [Principle XIII - Recovery of the plundered state](#principle-xiii--recovery-of-the-plundered-state)
 - [The civic oath](#the-civic-oath)
 - [Sources](#sources)
 
@@ -130,7 +132,7 @@ The promise of authoritarian efficiency turned out to be exactly what comparativ
 
 
 
-## Part II - Eleven principles
+## Part II - Thirteen principles
 
 
 
@@ -299,6 +301,176 @@ The relationship between the authorities and the church hierarchy fits a broader
 > **A message to the faithful:** This principle was not written against the Serbian Orthodox Church, but for it and for the millions of Serbian Christians whose faith deserves better than to be traded for political favors. The seven hierarchs who signed an open letter in support of the students, the parish priests who stood with their communities, the theologians who spoke the truth before church authority, they represent the best of what the Church can be. A Church free from the state is a Church that can fulfill its real mission: to comfort, to challenge, to speak the truth, and to serve. A Church captured by the state can do none of that. **Separation is not the victory of secularism over faith. It is the liberation of faith from politics.**
 
 
+### Principle XII - Lustration and the ban on the return of the state's captors
+
+No renewal of Serbia will be possible if the people who participated in capturing the state, turning institutions into instruments of crime, suffocating freedom, poisoning society through propaganda, and looting public resources remain in positions from which they can once again govern the state.
+
+Lustration is not revenge. It is the democratic self-defense of society.
+
+Serbia has already missed one historic opportunity to carry out lustration. [^47] After the fall of Milošević, people who had served the authoritarian system remained in the state administration, judiciary, police, security services, media, economy, and political life. We are living with the consequences of that failure today. The old networks did not disappear. They rebranded themselves, adapted, and returned through a new authoritarian architecture. If that cycle is not broken again, every future change of government will be only a brief pause before the next restoration.
+
+Lustration must therefore be established as a constitutional and legal mechanism for protecting the republic from those who knowingly turned it into private property.
+
+It must not be based on party membership, political opinion, or public unpopularity. It must be based on established personal responsibility, evidence, a public procedure, the right to defense, and the right to appeal. But when responsibility is established, the consequences must be real, long-term, and indisputable. [^48] [^49]
+
+#### Who is subject to lustration
+
+- **Politicians and officials**
+    who participated in the capture of institutions, the unconstitutional concentration of power, the abuse of public resources, or political pressure on the judiciary, media, universities, police, prosecution, and regulatory bodies.
+- **Civil servants and heads of public institutions**
+    who knowingly carried out illegal or anti-democratic orders, concealed documentation, participated in rigged hiring and appointment procedures, public procurement, political hiring, or the administrative persecution of citizens.
+- **Members of the police, security services, and judiciary**
+    who participated in political persecution, unlawful surveillance, intimidation of citizens, protection of organized crime, obstruction of investigations, or selective application of the law.
+- **Directors of public enterprises, institutions, and regulatory bodies**
+    who placed public resources in the service of the party, private enrichment, or control of society.
+- **Media editors, propagandists, and public figures**
+    who did not merely express a political opinion, but knowingly participated in campaigns of dehumanization, targeting, false accusation, intimidation of citizens, concealment of crime, and the production of an atmosphere in which violence and repression became acceptable.
+- **Businesspeople, intermediaries, and connected persons**
+    who benefited from the captured state through political connections, rigged tenders, corrupt contracts, offshore structures, or public projects.
+
+#### Lustration measures:
+
+- **A ban on holding public office**
+    for persons found responsible for participation in state capture, political repression, systemic corruption, or propaganda persecution of citizens.
+- **A ban on management positions in the public sector**
+    including ministries, public enterprises, institutions, universities, schools, hospitals, regulatory bodies, state agencies, and local governments.
+- **A ban on work in the judiciary, prosecution, police, and security services**
+    for persons who abused their authority, protected criminal networks, or participated in political persecution.
+- **A ban on participation in public procurement and business with the state**
+    for legal and natural persons who participated in corrupt arrangements, rigged tenders, or the extraction of public money.
+- **Confiscation of illegally acquired property**
+    through an independent procedure for examining the origin of assets, including property transferred to family members, godparents, intermediaries, connected companies, and offshore structures.
+- **Public disclosure of lustration decisions**
+    with reasoning, evidence, and legal grounds, so that citizens know who abused the trust of the state and why that trust can no longer be extended to them.
+
+The duration of the ban must depend on the severity of the established responsibility. For the gravest cases, those who participated in organized crime, political repression, the concealment of deaths, the systemic destruction of institutions, or large-scale propaganda-driven dehumanization of citizens, the ban must be lifelong. For lesser cases, it may be time-limited, but long enough to prevent the immediate return of the same networks through a back door.
+
+> **The boundary:** Lustration must not be a hunt for party members, nor a ban on different opinions. No one may be lustrated because they voted for the SNS, did ordinary work in the civil service, or publicly supported a policy. Lustration begins where abuse of power begins: where someone used an institution, media outlet, public money, official position, or social influence to serve a criminalized government, persecute citizens, conceal the truth, or tear down the republic from within.
+
+#### Institutional framework:
+
+- **An independent lustration commission**
+    must be established by law, with members chosen through a transparent process that includes judges, prosecutors, lawyers, representatives of universities, journalists' associations, human rights organizations, and civil society.
+- **Full opening of archives**
+    must include state security, police, prosecution, regulatory bodies, public enterprises, ministries, public procurement, contracts, communications of state bodies, and documentation on political surveillance and persecution.
+- **Protection of whistleblowers and witnesses**
+    must be absolute. Without people from within the system who will tell the truth, the networks of the captured state will remain hidden.
+- **A digital register of responsibility**
+    must be publicly accessible, searchable, and permanently archived. A society that does not remember its captors is condemned to entrust them with the keys of the state again.
+- **The right to appeal**
+    must exist before an independent court, but appeal must not become a mechanism of endless delay. Justice that is dragged out while networks of power rebuild their influence is not justice, but complicity.
+
+Lustration must be connected to criminal responsibility, but it must not depend only on it. A criminal proceeding determines whether someone committed a criminal offense. Lustration determines whether someone, through abuse of office, authority, or public influence, has shown that they must no longer be entrusted with public authority. Someone may avoid prison because of statutes of limitation, insufficient evidence for the criminal standard, or procedural obstacles, but they still must not be returned to the position from which they destroyed institutions.
+
+> **The core problem:** If, after the fall of a criminalized government, the same people are merely redistributed into new parties, new boards of directors, new media studios, new public tenders, and new advisory positions, nothing has really changed. The scenery has changed, but the apparatus remains alive.
+
+Lustration is therefore the red line between a change of government and the renewal of the state.
+
+Without it, the captured state outlives its formal masters. With it, a clear message is sent for the first time: public office is not spoils, propaganda is not a profession without consequences, serving a criminalized government is not a career phase, and the destruction of institutions is not something forgotten as soon as the political winds change.
+
+Serbia must not repeat the mistake of 2000. This time, the networks that turned the state into an instrument of party, money, fear, and lies must be dismantled to the end. Not to humiliate anyone, but so they never return.
+
+
+### Principle XIII - Recovery of the plundered state
+
+The captured state did not serve only to control institutions. It served plunder.
+
+During SNS rule, political power was turned into a machine for extracting public money. Tenders were rigged. Contracts were awarded to connected firms. Public enterprises were used as party ATMs. Infrastructure projects became channels for enriching politicians, their families, godparents, intermediaries, criminals, and businesspeople who built their wealth on proximity to power rather than on real market value.
+
+That wealth was not created by work. It was created by taking.
+
+It must not remain in their hands.
+
+If, after the fall of a criminalized government, the state merely changes ministers while leaving the stolen billions in private pockets, then it has not restored justice. It has only legalized the theft. The recovery of stolen assets must therefore be one of the first tasks of the renewed republic.
+
+**The basic principle is simple:** everything acquired through abuse of public office, rigged tenders, corrupt contracts, political influence, hidden ownership, offshore structures, or criminal connections must be returned to the state.
+
+Not symbolically. Not partially. Not through settlements that preserve the wealth of those who took it.
+
+But in reality, systemically, and to the end.
+
+#### Special prosecutor's office for high-level corruption and the plunder of the state
+
+A special prosecutor's office must be established with an exclusive mandate to investigate high-level political corruption, unlawful enrichment of officials, abuse of public procurement, harmful state contracts, and the links between political power, organized crime, and privileged private firms.
+
+That prosecutor's office must not be merely an office with a new sign on the door. It must have its own prosecutorial police, financial forensic experts, public procurement investigators, anti-money-laundering specialists, IT forensics, international legal assistance, and the right of direct access to documentation held by state bodies, banks, the cadastre, the tax administration, public enterprises, and the beneficial ownership register.
+
+Its mandate must include:
+
+- examining the origin of assets of all high-ranking officials, members of their families, and connected persons;
+- investigating public procurement, infrastructure projects, subsidies, state aid, and public-private partnerships;
+- tracing money flows through companies, subcontractors, consulting contracts, fictitious services, offshore structures, and connected intermediaries;
+- freezing assets where there is reasonable suspicion that they were acquired unlawfully;
+- initiating proceedings for the confiscation of illegally acquired property;
+- criminal prosecution of officials, civil servants, directors of public enterprises, private accomplices, and criminal intermediaries;
+- annulment or termination of harmful contracts concluded against the interests of the state.
+
+#### Connected persons and hidden ownership
+
+The plunder of the state is rarely carried out in one's own name. Assets are transferred to spouses, children, parents, siblings, godparents, friends, business partners, lawyers, directors of shell companies, and offshore companies. That is why an investigation must not stop at the formal owner.
+
+The beneficial owner must be examined.
+
+If salary, declared assets, and lawful income cannot explain villas, apartments, land, cars, companies, cash, artworks, luxury travel, and investments connected to a public official, the burden of explanation must rest on the person who enjoys that property. The state does not have to pretend to be blind to obvious wealth with no lawful origin.
+
+Connected persons who served to conceal assets must not be protected by the excuse that they did not formally hold office. Whoever guards the stolen goods participates in the theft.
+
+#### Freezing, seizure, and recovery
+
+In all high-corruption cases, there must be a possibility of urgently freezing assets in order to prevent their transfer, sale, gifting, removal from the country, or concealment through new legal constructions.
+
+Once unlawful origin is established, the assets must be permanently confiscated and returned to the state. This includes money, real estate, company shares, luxury goods, land, equipment, vehicles, foreign accounts, and every other benefit arising from the corrupt network.
+
+Confiscated assets must go into a special **Fund for the Renewal of the Public Interest**, from which schools, hospitals, universities, independent institutions, whistleblower protection, the renewal of public enterprises, and compensation for citizens who suffered the consequences of state corruption are financed.
+
+Money stolen from citizens must be returned to citizens.
+
+#### Annulment of harmful contracts
+
+Contracts concluded for the enrichment of politicians, criminal groups, and privileged firms cannot be treated as normal business obligations of the state. If a contract arose through corruption, a rigged tender, conflict of interest, hidden ownership, political pressure, falsified documentation, or terms obviously harmful to the state, it must be annulled, terminated, or revised.
+
+This applies especially to:
+
+- infrastructure projects with inflated prices;
+- public procurement with a winner chosen in advance;
+- contracts with secret annexes;
+- deals awarded to firms connected to officials, criminal groups, or party financiers;
+- projects in which safety, quality, and expert oversight were sacrificed for speed, propaganda, or commissions;
+- concessions, subsidies, and public-private partnerships concluded against the public interest.
+
+The state must have a legal mechanism for extraordinary review of all major contracts concluded during the period of captured power. This does not mean legal chaos, nor an attack on honest businesses. On the contrary: it is a way to separate truly honest businesses from those who replaced the market with party access and criminal protection.
+
+Well-intentioned subcontractors, workers, and companies that honestly performed their work must not be punished for the crimes of the political leadership. But the principal bearers of corrupt arrangements, the real beneficiaries, and their protectors in the state must lose both money and position.
+
+#### When corruption kills
+
+The plunder of the state is not abstract financial damage. It has human consequences.
+
+When a tender is rigged, the best contractor is not chosen. When the price is inflated, money does not go into quality, oversight, and safety, but into commissions. When documentation is hidden, citizens cannot know who is responsible. When institutions protect the powerful, danger remains unaddressed.
+
+That is how tragedies happen.
+
+Novi Sad showed the ultimate cost of corruption: when public works are turned into a chain of political promotion, nontransparent contracts, poor oversight, and flight from accountability, the consequences are not measured only in millions of euros. They are measured in human lives. That is why the recovery of stolen assets is not only an economic question. It is a question of justice for the dead, safety for the living, and warning for the future.
+
+> **The core problem:** If someone can become rich on a public project, hide the trail, transfer assets to connected persons, survive a change of government, and continue living as a respectable businessperson, then the state has not defeated corruption. Corruption has defeated the state.
+
+#### No amnesty for the plunder of the state
+
+There must be no political settlements allowing major actors to keep part of their wealth in exchange for silence. There must be no agreements to "avoid rocking the boat" for the sake of stability. There must be no selective justice that punishes minor executors while protecting those who designed the system.
+
+Everyone who participated in the plunder of the state must know that a change of government does not mean only the loss of office. It means the loss of everything acquired unlawfully.
+
+An official who turned public service into a private business must lose the property. A company that grew through rigged tenders must lose the contracts. An intermediary who laundered money must lose protection. A criminal who received state business must lose access to the state. A civil servant who concealed documentation must lose their position. A politician who traded human lives for commissions must answer before the law.
+
+The recovery of the plundered state is not revanchism.
+
+It is the minimum condition for Serbia to become a state again.
+
+Because a republic that does not know how to recover what was stolen from it cannot convince citizens that the law applies. And a state in which the law does not apply to the most powerful is not a state, but spoils.
+
+**Serbia must never again be spoils!**
+
+
 
 ## The civic oath
 
@@ -378,3 +550,6 @@ Document is licenced under [CC BY-NC-ND 4.0](https://creativecommons.org/license
 [^44]: Radar, "The removal of Metropolitan Justin: Political persecution under the cloak of the Church," May 23, 2026. [radar.nova.rs](https://radar.nova.rs/drustvo/smena-mitropolita-justina-spc-radar-114/)
 [^45]: CINS, "Who holds the contracts for EXPO: the sister of Aca Rošavi, a convicted man in the Arkan case, Pink Panther, Bagzi's son, a company linked to Čume," June 22, 2026. [cins.rs](https://www.cins.rs/u-cijim-rukama-su-poslovi-za-expo-sestra-ace-rosavog-osudjeni-u-slucaju-arkan-pink-panter-bagzijev-sin-firma-koja-se-povezuje-sa-cumetom/)
 [^46]: Danas, "Apoteke Beograd - how one system was systematically destroyed," June 16, 2026. [danas.rs](https://www.danas.rs/vesti/drustvo/apoteke-beograd-kako-je-jedan-sistem-planski-unisten/)
+[^47]: Balkan Insight, "Serbia's Unused Lustration Law Set to Expire," May 27, 2013. Serbia adopted a law on accountability for human rights violations in 2003, but it was never applied and expired in 2013. [balkaninsight.com](https://balkaninsight.com/2013/05/27/serbia-may-be-left-without-lustration/btj/)
+[^48]: Council of Europe, Parliamentary Assembly, Resolution 1096 (1996), "Measures to dismantle the heritage of former communist totalitarian systems". The resolution emphasizes that lustration must comply with the rule of law and be aimed at protecting democratization and fundamental rights. [assembly.coe.int](https://assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-en.asp?fileid=16507)
+[^49]: Venice Commission, "Lustration", 2013. Overview of European standards for lustration laws, including reliance on Council of Europe guidelines on the compatibility of lustration with the rule of law. [venice.coe.int](https://www.venice.coe.int/Newsletter/NEWSLETTER_2013_01/3_MAC_EN.html)

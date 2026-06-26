@@ -568,9 +568,9 @@
       }
     },
     "node_modules/@vsjov/pannonico": {
-      "version": "0.0.3",
-      "resolved": "https://npm.pkg.github.com/download/@vsjov/pannonico/0.0.3/1f465dde0dd5445b69995764137fe4c791e2e4f0",
-      "integrity": "sha512-SVxLn1WKKOY+GVdm1ljTrItb5QWds3rDBZhtH3s6o5dBkG1IT/ESGYCiJnjuAhUHpeDVV6E05IzBsoQqnHU59w==",
+      "version": "0.0.5",
+      "resolved": "https://npm.pkg.github.com/download/@vsjov/pannonico/0.0.5/317fcd4d1d212a3afd98cdf82c7ca310d4dc5059",
+      "integrity": "sha512-XKUo0O/9fP3Is4pIT4Bakf+OyHLIkE0E4d182NDPAEJObxLBlmvGETJAeO0IbqL4Ds+XJ9ZpmYFaNxZ41Czfzg==",
       "dev": true,
       "license": "Proprietary",
       "dependencies": {

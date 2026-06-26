@@ -1,0 +1,61 @@
+// Font Weight Guide
+// -----------------
+// 100 - thin
+// 200 - extralight
+// 300 - light
+// 400 - regular / normal
+// 500 - medium
+// 600 - semi-bold
+// 700 - bold
+// 800 - extrabold
+// 900 - black / heavy
+
+// Font Face Mixin
+@mixin fontFace($fontName, $fileName, $fontWeight, $fontStyle) {
+  @font-face {
+    font-family: "#{$fontName}";
+    src: url("#{$fileName}.woff2") format("woff2"),
+         url("#{$fileName}.woff") format("woff");
+    font-weight: #{$fontWeight};
+    font-style: #{$fontStyle};
+    font-display: swap;
+  }
+}
+
+
+// Thin
+@include fontFace("Noto Serif", "noto-serif-thin", 100, "normal");
+// Thin Italic
+@include fontFace("Noto Serif", "noto-serif-thin-italic", 100, "italic");
+// Extra Light
+@include fontFace("Noto Serif", "noto-serif-extra-light", 200, "normal");
+// Extra Light Italic
+@include fontFace("Noto Serif", "noto-serif-extra-light-italic", 200, "italic");
+// Light
+@include fontFace("Noto Serif", "noto-serif-light", 300, "normal");
+// Light Italic
+@include fontFace("Noto Serif", "noto-serif-light-italic", 300, "italic");
+// Normal
+@include fontFace("Noto Serif", "noto-serif-regular", 400, "normal");
+// Italic
+@include fontFace("Noto Serif", "noto-serif-italic", 400, "italic");
+// Medium
+@include fontFace("Noto Serif", "noto-serif-medium", 500, "normal");
+// Medium Italic
+@include fontFace("Noto Serif", "noto-serif-medium-italic", 500, "italic");
+// Semi Bold
+@include fontFace("Noto Serif", "noto-serif-semi-bold", 600, "normal");
+// Semi Bold Italic
+@include fontFace("Noto Serif", "noto-serif-semi-bold-italic", 600, "italic");
+// Bold
+@include fontFace("Noto Serif", "noto-serif-bold", 700, "normal");
+// Bold Italic
+@include fontFace("Noto Serif", "noto-serif-bold-italic", 700, "italic");
+// Extra Bold
+@include fontFace("Noto Serif", "noto-serif-extra-bold", 800, "normal");
+// Extra Bold Italic
+@include fontFace("Noto Serif", "noto-serif-extra-bold-italic", 800, "italic");
+// Black
+@include fontFace("Noto Serif", "noto-serif-black", 900, "normal");
+// Black Italic
+@include fontFace("Noto Serif", "noto-serif-black-italic", 900, "italic");

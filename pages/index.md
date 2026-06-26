@@ -34,6 +34,7 @@ metaDescription: Skup načela napisanih za svakog građanina Srbije koji vidi da
 - [Načelo IX - Kulturni preporod i povratak identiteta od propagande](#načelo-ix--kulturni-preporod-i-povratak-identiteta-od-propagande)
 - [Načelo X - Zavet povratka](#načelo-x--zavet-povratka--vraćanje-naroda-kući)
 - [Načelo XI - Razdvajanje crkve i države](#načelo-xi--razdvajanje-crkve-i-države--vera-bez-vazalstva)
+- [Načelo XII - Lustracija i zabrana povratka zarobljivača države](#načelo-xii--lustracija-i-zabrana-povratka-zarobljivača-države)
 - [Građanska zakletva](#građanska-zakletva)
 - [Izvori](#izvori)
 
@@ -130,7 +131,7 @@ Obećanje autoritarne efikasnosti pokazalo se kao tačno ono što komparativna i
 
 
 
-## Deo II - Jedanaest načela
+## Deo II - Dvanaest načela
 
 
 
@@ -299,6 +300,76 @@ Odnos vlasti i crkvene hijerarhije uklapa se u širi autoritarni obrazac: držav
 > **Poruka vernima:** Ovo načelo nije napisano protiv Srpske pravoslavne crkve, već za nju i za milione srpskih hrišćana čija vera zaslužuje bolje nego da bude razmenjena za političke usluge. Sedam arhijereja koji su potpisali otvoreno pismo u podršku studentima, parohijski sveštenici koji su stali uz svoje zajednice, teolozi koji su govorili istinu pred crkvenom vlašću, oni predstavljaju ono najbolje što crkva može biti. Crkva slobodna od države je crkva koja može ispuniti svoju stvarnu misiju: da teši, da izaziva, da govori istinu i da služi. Crkva zarobljena od države ne može ništa od toga. **Razdvajanje nije pobeda sekularizma nad verom. To je oslobađanje vere od politike.**
 
 
+### Načelo XII - Lustracija i zabrana povratka zarobljivača države
+
+Nijedna obnova Srbije neće biti moguća ako ljudi koji su učestvovali u zarobljavanju države, kriminalizaciji institucija, gušenju slobode, propagandnom trovanju društva i pljački javnih resursa ostanu na položajima sa kojih mogu ponovo da upravljaju državom.
+
+Lustracija nije osveta. Ona je demokratska samozaštita društva.
+
+Srbija je već jednom propustila istorijsku priliku da sprovede lustraciju. [^47] Posle pada Miloševića, ljudi koji su služili autoritarnom sistemu ostali su u državnoj upravi, pravosuđu, policiji, bezbednosnim službama, medijima, privredi i političkom životu. Posledice tog propusta danas živimo. Stare mreže nisu nestale. Presvukle su se, prilagodile i vratile kroz novu autoritarnu arhitekturu. Ako se taj ciklus ponovo ne prekine, svaka buduća promena vlasti biće samo kratka pauza pre sledeće restauracije.
+
+Lustracija zato mora biti uspostavljena kao ustavni i zakonski mehanizam zaštite republike od onih koji su je svesno pretvorili u privatni posed.
+
+Ona se ne sme zasnivati na pripadnosti stranci, političkom mišljenju ili javnoj nepopularnosti. Mora se zasnivati na utvrđenoj ličnoj odgovornosti, dokazima, javnom postupku, pravu na odbranu i pravu na žalbu. Ali kada se odgovornost utvrdi, posledice moraju biti stvarne, dugoročne i nesporne. [^48] [^49]
+
+#### Ko podleže lustraciji
+
+- **Političari i funkcioneri**
+    koji su učestvovali u zarobljavanju institucija, protivustavnom koncentrisanju moći, zloupotrebi javnih resursa, političkom pritisku na pravosuđe, medije, univerzitete, policiju, tužilaštvo i regulatorna tela.
+- **Državni službenici i rukovodioci javnih institucija**
+    koji su svesno sprovodili nezakonite ili protivdemokratske naloge, prikrivali dokumentaciju, učestvovali u nameštenim konkursima, javnim nabavkama, političkom zapošljavanju ili administrativnom progonu građana.
+- **Pripadnici policije, bezbednosnih službi i pravosuđa**
+    koji su učestvovali u političkom progonu, nezakonitom nadzoru, zastrašivanju građana, zaštiti organizovanog kriminala, opstrukciji istraga ili selektivnoj primeni zakona.
+- **Direktori javnih preduzeća, ustanova i regulatornih tela**
+    koji su javne resurse stavili u službu stranke, privatnog bogaćenja ili kontrole društva.
+- **Medijski urednici, propagandisti i javne ličnosti**
+    koje nisu samo izražavale političko mišljenje, već su svesno učestvovale u kampanjama dehumanizacije, targetiranja, lažnog optuživanja, zastrašivanja građana, prikrivanja kriminala i proizvodnje atmosfere u kojoj su nasilje i represija postali prihvatljivi.
+- **Privrednici, posrednici i povezane osobe**
+    koji su kroz političke veze, nameštene tendere, koruptivne ugovore, ofšor strukture ili javne projekte sticali korist od zarobljene države.
+
+#### Mere lustracije
+
+- **Zabrana obavljanja javnih funkcija**
+    za lica kod kojih se utvrdi odgovornost za učešće u zarobljavanju države, političkoj represiji, sistemskoj korupciji ili propagandnom progonu građana.
+- **Zabrana rada na rukovodećim mestima u javnom sektoru**
+    uključujući ministarstva, javna preduzeća, ustanove, univerzitete, škole, bolnice, regulatorna tela, državne agencije i lokalne samouprave.
+- **Zabrana rada u pravosuđu, tužilaštvu, policiji i bezbednosnim službama**
+    za lica koja su zloupotrebila ovlašćenja, štitila kriminalne mreže ili učestvovala u političkom progonu.
+- **Zabrana učešća u javnim nabavkama i poslovima sa državom**
+    za pravna i fizička lica koja su učestvovala u koruptivnim aranžmanima, nameštenim tenderima ili izvlačenju javnog novca.
+- **Oduzimanje nezakonito stečene imovine**
+    kroz nezavisan postupak ispitivanja porekla imovine, uključujući imovinu prenetu na članove porodice, kumove, posrednike, povezane firme i ofšor strukture.
+- **Javno objavljivanje odluka**
+    o lustraciji, sa obrazloženjem, dokazima i pravnim osnovom, kako bi građani znali ko je zloupotrebio poverenje države i zašto više ne može da ga dobije.
+
+Trajanje zabrane mora zavisiti od težine utvrđene odgovornosti. Za najteže slučajeve, one koji su učestvovali u organizovanom kriminalu, političkoj represiji, prikrivanju smrti, sistemskom uništavanju institucija ili masovnoj propagandnoj dehumanizaciji građana, zabrana mora biti doživotna. Za manje slučajeve može biti vremenski ograničena, ali dovoljno duga da onemogući trenutni povratak istih mreža kroz druga vrata.
+
+> **Granica:** Lustracija ne sme biti lov na članove stranke, niti zabrana drugačijeg mišljenja. Niko ne sme biti lustriran zato što je glasao za SNS, radio običan posao u državnoj službi ili javno podržavao neku politiku. Lustracija počinje tamo gde počinje zloupotreba moći: tamo gde je neko koristio instituciju, medij, javni novac, službeni položaj ili društveni uticaj da bi služio kriminalizovanoj vlasti, progonio građane, prikrivao istinu ili rušio republiku iznutra.
+
+#### Institucionalni okvir
+
+- **Nezavisna komisija za lustraciju**
+    mora biti uspostavljena zakonom, sa članovima biranim kroz transparentan postupak koji uključuje sudije, tužioce, pravnike, predstavnike univerziteta, novinarskih udruženja, organizacija za ljudska prava i civilnog društva.
+- **Potpuno otvaranje arhiva**
+    mora obuhvatiti državnu bezbednost, policiju, tužilaštvo, regulatorna tela, javna preduzeća, ministarstva, javne nabavke, ugovore, komunikaciju državnih organa i dokumentaciju o političkom nadzoru i progonu.
+- **Zaštita uzbunjivača i svedoka**
+    mora biti apsolutna. Bez ljudi iz sistema koji će govoriti istinu, mreže zarobljene države ostaće skrivene.
+- **Digitalni registar odgovornosti**
+    mora biti javno dostupan, pretraživ i trajno arhiviran. Društvo koje ne pamti svoje zarobljivače osuđeno je da im ponovo poveri ključeve države.
+- **Pravo na žalbu**
+    mora postojati pred nezavisnim sudom, ali žalba ne sme biti mehanizam beskonačnog odlaganja. Pravda koja se razvlači dok mreže moći obnavljaju uticaj nije pravda, već saučesništvo.
+
+Lustracija mora biti povezana sa krivičnom odgovornošću, ali ne sme zavisiti samo od nje. Krivični postupak utvrđuje da li je neko počinio krivično delo. Lustracija utvrđuje da li je neko zloupotrebom položaja, autoriteta ili javnog uticaja pokazao da više ne sme upravljati javnim poverenjem. Neko može izbeći zatvor zbog zastarelosti, nedostatka dokaza za krivični standard ili proceduralnih prepreka, ali i dalje ne sme biti vraćen na mesto sa kog je rušio institucije.
+
+> **Suštinski problem:** Ako se posle pada kriminalizovane vlasti isti ljudi samo preraspodele u nove stranke, nove upravne odbore, nove medijske studije, nove javne tendere i nove savetničke pozicije, ništa se zaista nije promenilo. Promenjena je scenografija, ali je aparat ostao živ.
+
+Lustracija je zato crvena linija između promene vlasti i obnove države.
+
+Bez nje, zarobljena država preživljava svoje formalne gospodare. Sa njom, prvi put se šalje jasna poruka: javna funkcija nije plen, propaganda nije zanimanje bez posledica, služenje kriminalizovanoj vlasti nije karijerna faza, a uništavanje institucija nije nešto što se zaboravlja čim se promeni politički vetar.
+
+Srbija ne sme ponovo da napravi grešku iz 2000. godine. Ovoga puta, mreže koje su državu pretvorile u instrument stranke, novca, straha i laži moraju biti razgrađene do kraja. Ne da bi se neko ponizio, nego da se više nikada ne vrate.
+
+
 
 ## Građanska zakletva
 
@@ -379,3 +450,6 @@ Dokument je objavljen pod [CC BY-NC-ND 4.0](https://creativecommons.org/licenses
 [^44]: Radar, "Smena mitropolita Justina: Politički progon pod skutima Crkve," 23. maj 2026. [radar.nova.rs](https://radar.nova.rs/drustvo/smena-mitropolita-justina-spc-radar-114/)
 [^45]: CINS, "U čijim rukama su poslovi za EXPO: sestra Ace Rošavog, osuđeni u slučaju Arkan, Pink Panter, Bagzijev sin, firma koja se povezuje sa Čumetom", 22. jun 2026. [cins.rs](https://www.cins.rs/u-cijim-rukama-su-poslovi-za-expo-sestra-ace-rosavog-osudjeni-u-slucaju-arkan-pink-panter-bagzijev-sin-firma-koja-se-povezuje-sa-cumetom/)
 [^46]: Danas, "Apoteke Beograd - kako je jedan sistem planski uništen", 16. jun 2026. [danas.rs](https://www.danas.rs/vesti/drustvo/apoteke-beograd-kako-je-jedan-sistem-planski-unisten/)
+[^47]: Balkan Insight, "Serbia's Unused Lustration Law Set to Expire", 27. maj 2013. Srbija je 2003. usvojila zakon o odgovornosti za kršenje ljudskih prava, ali on nikada nije primenjen i istekao je 2013. [balkaninsight.com](https://balkaninsight.com/2013/05/27/serbia-may-be-left-without-lustration/btj/)
+[^48]: Savet Evrope, Parlamentarna skupština, Rezolucija 1096 (1996), "Measures to dismantle the heritage of former communist totalitarian systems". Rezolucija naglašava da lustracija mora biti usklađena sa vladavinom prava i usmerena na zaštitu demokratizacije i osnovnih prava. [assembly.coe.int](https://assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-en.asp?fileid=16507)
+[^49]: Venice Commission, "Lustration", 2013. Pregled evropskih standarda za lustracione zakone, uključujući oslanjanje na smernice Saveta Evrope o usklađenosti lustracije sa vladavinom prava. [venice.coe.int](https://www.venice.coe.int/Newsletter/NEWSLETTER_2013_01/3_MAC_EN.html)

@@ -34,6 +34,7 @@ metaDescription: A set of principles written for every citizen of Serbia who see
 - [Principle IX - Cultural renewal and the return of identity from propaganda](#principle-ix--cultural-renewal-and-the-return-of-identity-from-propaganda)
 - [Principle X - The covenant of return](#principle-x--the-covenant-of-return--bringing-the-people-home)
 - [Principle XI - The separation of church and state](#principle-xi--the-separation-of-church-and-state--faith-without-vassalage)
+- [Principle XII - Lustration and the ban on the return of the state's captors](#principle-xii--lustration-and-the-ban-on-the-return-of-the-states-captors)
 - [The civic oath](#the-civic-oath)
 - [Sources](#sources)
 
@@ -130,7 +131,7 @@ The promise of authoritarian efficiency turned out to be exactly what comparativ
 
 
 
-## Part II - Eleven principles
+## Part II - Twelve principles
 
 
 
@@ -299,6 +300,76 @@ The relationship between the authorities and the church hierarchy fits a broader
 > **A message to the faithful:** This principle was not written against the Serbian Orthodox Church, but for it and for the millions of Serbian Christians whose faith deserves better than to be traded for political favors. The seven hierarchs who signed an open letter in support of the students, the parish priests who stood with their communities, the theologians who spoke the truth before church authority, they represent the best of what the Church can be. A Church free from the state is a Church that can fulfill its real mission: to comfort, to challenge, to speak the truth, and to serve. A Church captured by the state can do none of that. **Separation is not the victory of secularism over faith. It is the liberation of faith from politics.**
 
 
+### Principle XII - Lustration and the ban on the return of the state's captors
+
+No renewal of Serbia will be possible if the people who participated in capturing the state, turning institutions into instruments of crime, suffocating freedom, poisoning society through propaganda, and looting public resources remain in positions from which they can once again govern the state.
+
+Lustration is not revenge. It is the democratic self-defense of society.
+
+Serbia has already missed one historic opportunity to carry out lustration. [^47] After the fall of Milošević, people who had served the authoritarian system remained in the state administration, judiciary, police, security services, media, economy, and political life. We are living with the consequences of that failure today. The old networks did not disappear. They rebranded themselves, adapted, and returned through a new authoritarian architecture. If that cycle is not broken again, every future change of government will be only a brief pause before the next restoration.
+
+Lustration must therefore be established as a constitutional and legal mechanism for protecting the republic from those who knowingly turned it into private property.
+
+It must not be based on party membership, political opinion, or public unpopularity. It must be based on established personal responsibility, evidence, a public procedure, the right to defense, and the right to appeal. But when responsibility is established, the consequences must be real, long-term, and indisputable. [^48] [^49]
+
+#### Who is subject to lustration
+
+- **Politicians and officials**
+    who participated in the capture of institutions, the unconstitutional concentration of power, the abuse of public resources, or political pressure on the judiciary, media, universities, police, prosecution, and regulatory bodies.
+- **Civil servants and heads of public institutions**
+    who knowingly carried out illegal or anti-democratic orders, concealed documentation, participated in rigged hiring and appointment procedures, public procurement, political hiring, or the administrative persecution of citizens.
+- **Members of the police, security services, and judiciary**
+    who participated in political persecution, unlawful surveillance, intimidation of citizens, protection of organized crime, obstruction of investigations, or selective application of the law.
+- **Directors of public enterprises, institutions, and regulatory bodies**
+    who placed public resources in the service of the party, private enrichment, or control of society.
+- **Media editors, propagandists, and public figures**
+    who did not merely express a political opinion, but knowingly participated in campaigns of dehumanization, targeting, false accusation, intimidation of citizens, concealment of crime, and the production of an atmosphere in which violence and repression became acceptable.
+- **Businesspeople, intermediaries, and connected persons**
+    who benefited from the captured state through political connections, rigged tenders, corrupt contracts, offshore structures, or public projects.
+
+#### Lustration measures:
+
+- **A ban on holding public office**
+    for persons found responsible for participation in state capture, political repression, systemic corruption, or propaganda persecution of citizens.
+- **A ban on management positions in the public sector**
+    including ministries, public enterprises, institutions, universities, schools, hospitals, regulatory bodies, state agencies, and local governments.
+- **A ban on work in the judiciary, prosecution, police, and security services**
+    for persons who abused their authority, protected criminal networks, or participated in political persecution.
+- **A ban on participation in public procurement and business with the state**
+    for legal and natural persons who participated in corrupt arrangements, rigged tenders, or the extraction of public money.
+- **Confiscation of illegally acquired property**
+    through an independent procedure for examining the origin of assets, including property transferred to family members, godparents, intermediaries, connected companies, and offshore structures.
+- **Public disclosure of lustration decisions**
+    with reasoning, evidence, and legal grounds, so that citizens know who abused the trust of the state and why that trust can no longer be extended to them.
+
+The duration of the ban must depend on the severity of the established responsibility. For the gravest cases, those who participated in organized crime, political repression, the concealment of deaths, the systemic destruction of institutions, or large-scale propaganda-driven dehumanization of citizens, the ban must be lifelong. For lesser cases, it may be time-limited, but long enough to prevent the immediate return of the same networks through a back door.
+
+> **The boundary:** Lustration must not be a hunt for party members, nor a ban on different opinions. No one may be lustrated because they voted for the SNS, did ordinary work in the civil service, or publicly supported a policy. Lustration begins where abuse of power begins: where someone used an institution, media outlet, public money, official position, or social influence to serve a criminalized government, persecute citizens, conceal the truth, or tear down the republic from within.
+
+#### Institutional framework:
+
+- **An independent lustration commission**
+    must be established by law, with members chosen through a transparent process that includes judges, prosecutors, lawyers, representatives of universities, journalists' associations, human rights organizations, and civil society.
+- **Full opening of archives**
+    must include state security, police, prosecution, regulatory bodies, public enterprises, ministries, public procurement, contracts, communications of state bodies, and documentation on political surveillance and persecution.
+- **Protection of whistleblowers and witnesses**
+    must be absolute. Without people from within the system who will tell the truth, the networks of the captured state will remain hidden.
+- **A digital register of responsibility**
+    must be publicly accessible, searchable, and permanently archived. A society that does not remember its captors is condemned to entrust them with the keys of the state again.
+- **The right to appeal**
+    must exist before an independent court, but appeal must not become a mechanism of endless delay. Justice that is dragged out while networks of power rebuild their influence is not justice, but complicity.
+
+Lustration must be connected to criminal responsibility, but it must not depend only on it. A criminal proceeding determines whether someone committed a criminal offense. Lustration determines whether someone, through abuse of office, authority, or public influence, has shown that they must no longer be entrusted with public authority. Someone may avoid prison because of statutes of limitation, insufficient evidence for the criminal standard, or procedural obstacles, but they still must not be returned to the position from which they destroyed institutions.
+
+> **The core problem:** If, after the fall of a criminalized government, the same people are merely redistributed into new parties, new boards of directors, new media studios, new public tenders, and new advisory positions, nothing has really changed. The scenery has changed, but the apparatus remains alive.
+
+Lustration is therefore the red line between a change of government and the renewal of the state.
+
+Without it, the captured state outlives its formal masters. With it, a clear message is sent for the first time: public office is not spoils, propaganda is not a profession without consequences, serving a criminalized government is not a career phase, and the destruction of institutions is not something forgotten as soon as the political winds change.
+
+Serbia must not repeat the mistake of 2000. This time, the networks that turned the state into an instrument of party, money, fear, and lies must be dismantled to the end. Not to humiliate anyone, but so they never return.
+
+
 
 ## The civic oath
 
@@ -378,3 +449,6 @@ Document is licenced under [CC BY-NC-ND 4.0](https://creativecommons.org/license
 [^44]: Radar, "The removal of Metropolitan Justin: Political persecution under the cloak of the Church," May 23, 2026. [radar.nova.rs](https://radar.nova.rs/drustvo/smena-mitropolita-justina-spc-radar-114/)
 [^45]: CINS, "Who holds the contracts for EXPO: the sister of Aca Rošavi, a convicted man in the Arkan case, Pink Panther, Bagzi's son, a company linked to Čume," June 22, 2026. [cins.rs](https://www.cins.rs/u-cijim-rukama-su-poslovi-za-expo-sestra-ace-rosavog-osudjeni-u-slucaju-arkan-pink-panter-bagzijev-sin-firma-koja-se-povezuje-sa-cumetom/)
 [^46]: Danas, "Apoteke Beograd - how one system was systematically destroyed," June 16, 2026. [danas.rs](https://www.danas.rs/vesti/drustvo/apoteke-beograd-kako-je-jedan-sistem-planski-unisten/)
+[^47]: Balkan Insight, "Serbia's Unused Lustration Law Set to Expire," May 27, 2013. Serbia adopted a law on accountability for human rights violations in 2003, but it was never applied and expired in 2013. [balkaninsight.com](https://balkaninsight.com/2013/05/27/serbia-may-be-left-without-lustration/btj/)
+[^48]: Council of Europe, Parliamentary Assembly, Resolution 1096 (1996), "Measures to dismantle the heritage of former communist totalitarian systems". The resolution emphasizes that lustration must comply with the rule of law and be aimed at protecting democratization and fundamental rights. [assembly.coe.int](https://assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-en.asp?fileid=16507)
+[^49]: Venice Commission, "Lustration", 2013. Overview of European standards for lustration laws, including reliance on Council of Europe guidelines on the compatibility of lustration with the rule of law. [venice.coe.int](https://www.venice.coe.int/Newsletter/NEWSLETTER_2013_01/3_MAC_EN.html)

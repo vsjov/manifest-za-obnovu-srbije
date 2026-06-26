@@ -11,7 +11,7 @@
     "watch": "pannonico watch"
   },
   "devDependencies": {
-    "@vsjov/pannonico": "^0.0.2"
+    "@vsjov/pannonico": "latest"
   },
   "author": "Vladimir Jovanović <vladimir@webdizajn.org>",
   "license": "CC-BY-NC-ND-4.0"

@@ -35,6 +35,7 @@ metaDescription: A set of principles written for every citizen of Serbia who see
 - [Principle X - The covenant of return](#principle-x--the-covenant-of-return--bringing-the-people-home)
 - [Principle XI - The separation of church and state](#principle-xi--the-separation-of-church-and-state--faith-without-vassalage)
 - [Principle XII - Lustration and the ban on the return of the state's captors](#principle-xii--lustration-and-the-ban-on-the-return-of-the-states-captors)
+- [Principle XIII - Recovery of the plundered state](#principle-xiii--recovery-of-the-plundered-state)
 - [The civic oath](#the-civic-oath)
 - [Sources](#sources)
 
@@ -131,7 +132,7 @@ The promise of authoritarian efficiency turned out to be exactly what comparativ
 
 
 
-## Part II - Twelve principles
+## Part II - Thirteen principles
 
 
 
@@ -368,6 +369,106 @@ Lustration is therefore the red line between a change of government and the rene
 Without it, the captured state outlives its formal masters. With it, a clear message is sent for the first time: public office is not spoils, propaganda is not a profession without consequences, serving a criminalized government is not a career phase, and the destruction of institutions is not something forgotten as soon as the political winds change.
 
 Serbia must not repeat the mistake of 2000. This time, the networks that turned the state into an instrument of party, money, fear, and lies must be dismantled to the end. Not to humiliate anyone, but so they never return.
+
+
+### Principle XIII - Recovery of the plundered state
+
+The captured state did not serve only to control institutions. It served plunder.
+
+During SNS rule, political power was turned into a machine for extracting public money. Tenders were rigged. Contracts were awarded to connected firms. Public enterprises were used as party ATMs. Infrastructure projects became channels for enriching politicians, their families, godparents, intermediaries, criminals, and businesspeople who built their wealth on proximity to power rather than on real market value.
+
+That wealth was not created by work. It was created by taking.
+
+It must not remain in their hands.
+
+If, after the fall of a criminalized government, the state merely changes ministers while leaving the stolen billions in private pockets, then it has not restored justice. It has only legalized the theft. The recovery of stolen assets must therefore be one of the first tasks of the renewed republic.
+
+**The basic principle is simple:** everything acquired through abuse of public office, rigged tenders, corrupt contracts, political influence, hidden ownership, offshore structures, or criminal connections must be returned to the state.
+
+Not symbolically. Not partially. Not through settlements that preserve the wealth of those who took it.
+
+But in reality, systemically, and to the end.
+
+#### Special prosecutor's office for high-level corruption and the plunder of the state
+
+A special prosecutor's office must be established with an exclusive mandate to investigate high-level political corruption, unlawful enrichment of officials, abuse of public procurement, harmful state contracts, and the links between political power, organized crime, and privileged private firms.
+
+That prosecutor's office must not be merely an office with a new sign on the door. It must have its own prosecutorial police, financial forensic experts, public procurement investigators, anti-money-laundering specialists, IT forensics, international legal assistance, and the right of direct access to documentation held by state bodies, banks, the cadastre, the tax administration, public enterprises, and the beneficial ownership register.
+
+Its mandate must include:
+
+- examining the origin of assets of all high-ranking officials, members of their families, and connected persons;
+- investigating public procurement, infrastructure projects, subsidies, state aid, and public-private partnerships;
+- tracing money flows through companies, subcontractors, consulting contracts, fictitious services, offshore structures, and connected intermediaries;
+- freezing assets where there is reasonable suspicion that they were acquired unlawfully;
+- initiating proceedings for the confiscation of illegally acquired property;
+- criminal prosecution of officials, civil servants, directors of public enterprises, private accomplices, and criminal intermediaries;
+- annulment or termination of harmful contracts concluded against the interests of the state.
+
+#### Connected persons and hidden ownership
+
+The plunder of the state is rarely carried out in one's own name. Assets are transferred to spouses, children, parents, siblings, godparents, friends, business partners, lawyers, directors of shell companies, and offshore companies. That is why an investigation must not stop at the formal owner.
+
+The beneficial owner must be examined.
+
+If salary, declared assets, and lawful income cannot explain villas, apartments, land, cars, companies, cash, artworks, luxury travel, and investments connected to a public official, the burden of explanation must rest on the person who enjoys that property. The state does not have to pretend to be blind to obvious wealth with no lawful origin.
+
+Connected persons who served to conceal assets must not be protected by the excuse that they did not formally hold office. Whoever guards the stolen goods participates in the theft.
+
+#### Freezing, seizure, and recovery
+
+In all high-corruption cases, there must be a possibility of urgently freezing assets in order to prevent their transfer, sale, gifting, removal from the country, or concealment through new legal constructions.
+
+Once unlawful origin is established, the assets must be permanently confiscated and returned to the state. This includes money, real estate, company shares, luxury goods, land, equipment, vehicles, foreign accounts, and every other benefit arising from the corrupt network.
+
+Confiscated assets must go into a special **Fund for the Renewal of the Public Interest**, from which schools, hospitals, universities, independent institutions, whistleblower protection, the renewal of public enterprises, and compensation for citizens who suffered the consequences of state corruption are financed.
+
+Money stolen from citizens must be returned to citizens.
+
+#### Annulment of harmful contracts
+
+Contracts concluded for the enrichment of politicians, criminal groups, and privileged firms cannot be treated as normal business obligations of the state. If a contract arose through corruption, a rigged tender, conflict of interest, hidden ownership, political pressure, falsified documentation, or terms obviously harmful to the state, it must be annulled, terminated, or revised.
+
+This applies especially to:
+
+- infrastructure projects with inflated prices;
+- public procurement with a winner chosen in advance;
+- contracts with secret annexes;
+- deals awarded to firms connected to officials, criminal groups, or party financiers;
+- projects in which safety, quality, and expert oversight were sacrificed for speed, propaganda, or commissions;
+- concessions, subsidies, and public-private partnerships concluded against the public interest.
+
+The state must have a legal mechanism for extraordinary review of all major contracts concluded during the period of captured power. This does not mean legal chaos, nor an attack on honest businesses. On the contrary: it is a way to separate truly honest businesses from those who replaced the market with party access and criminal protection.
+
+Well-intentioned subcontractors, workers, and companies that honestly performed their work must not be punished for the crimes of the political leadership. But the principal bearers of corrupt arrangements, the real beneficiaries, and their protectors in the state must lose both money and position.
+
+#### When corruption kills
+
+The plunder of the state is not abstract financial damage. It has human consequences.
+
+When a tender is rigged, the best contractor is not chosen. When the price is inflated, money does not go into quality, oversight, and safety, but into commissions. When documentation is hidden, citizens cannot know who is responsible. When institutions protect the powerful, danger remains unaddressed.
+
+That is how tragedies happen.
+
+Novi Sad showed the ultimate cost of corruption: when public works are turned into a chain of political promotion, nontransparent contracts, poor oversight, and flight from accountability, the consequences are not measured only in millions of euros. They are measured in human lives. That is why the recovery of stolen assets is not only an economic question. It is a question of justice for the dead, safety for the living, and warning for the future.
+
+> **The core problem:** If someone can become rich on a public project, hide the trail, transfer assets to connected persons, survive a change of government, and continue living as a respectable businessperson, then the state has not defeated corruption. Corruption has defeated the state.
+
+#### No amnesty for the plunder of the state
+
+There must be no political settlements allowing major actors to keep part of their wealth in exchange for silence. There must be no agreements to "avoid rocking the boat" for the sake of stability. There must be no selective justice that punishes minor executors while protecting those who designed the system.
+
+Everyone who participated in the plunder of the state must know that a change of government does not mean only the loss of office. It means the loss of everything acquired unlawfully.
+
+An official who turned public service into a private business must lose the property. A company that grew through rigged tenders must lose the contracts. An intermediary who laundered money must lose protection. A criminal who received state business must lose access to the state. A civil servant who concealed documentation must lose their position. A politician who traded human lives for commissions must answer before the law.
+
+The recovery of the plundered state is not revanchism.
+
+It is the minimum condition for Serbia to become a state again.
+
+Because a republic that does not know how to recover what was stolen from it cannot convince citizens that the law applies. And a state in which the law does not apply to the most powerful is not a state, but spoils.
+
+**Serbia must never again be spoils!**
 
 
 

@@ -35,6 +35,7 @@ metaDescription: Skup načela napisanih za svakog građanina Srbije koji vidi da
 - [Načelo X - Zavet povratka](#načelo-x--zavet-povratka--vraćanje-naroda-kući)
 - [Načelo XI - Razdvajanje crkve i države](#načelo-xi--razdvajanje-crkve-i-države--vera-bez-vazalstva)
 - [Načelo XII - Lustracija i zabrana povratka zarobljivača države](#načelo-xii--lustracija-i-zabrana-povratka-zarobljivača-države)
+- [Načelo XIII - Povraćaj opljačkane države](#načelo-xiii--povraćaj-opljačkane-države)
 - [Građanska zakletva](#građanska-zakletva)
 - [Izvori](#izvori)
 
@@ -131,7 +132,7 @@ Obećanje autoritarne efikasnosti pokazalo se kao tačno ono što komparativna i
 
 
 
-## Deo II - Dvanaest načela
+## Deo II - Trinaest načela
 
 
 
@@ -368,6 +369,106 @@ Lustracija je zato crvena linija između promene vlasti i obnove države.
 Bez nje, zarobljena država preživljava svoje formalne gospodare. Sa njom, prvi put se šalje jasna poruka: javna funkcija nije plen, propaganda nije zanimanje bez posledica, služenje kriminalizovanoj vlasti nije karijerna faza, a uništavanje institucija nije nešto što se zaboravlja čim se promeni politički vetar.
 
 Srbija ne sme ponovo da napravi grešku iz 2000. godine. Ovoga puta, mreže koje su državu pretvorile u instrument stranke, novca, straha i laži moraju biti razgrađene do kraja. Ne da bi se neko ponizio, nego da se više nikada ne vrate.
+
+
+### Načelo XIII - Povraćaj opljačkane države
+
+Zarobljena država nije služila samo kontroli institucija. Služila je pljački.
+
+Tokom vladavine SNS-a, politička moć pretvorena je u mašinu za izvlačenje javnog novca. Tenderi su nameštani. Ugovori su dodeljivani povezanim firmama. Javna preduzeća su korišćena kao partijski bankomati. Infrastrukturni projekti postali su kanali za bogaćenje političara, njihovih porodica, kumova, posrednika, kriminalaca i poslovnih ljudi koji su svoje bogatstvo gradili na blizini vlasti, a ne na stvarnoj tržišnoj vrednosti.
+
+To bogatstvo nije nastalo radom. Nastalo je otimanjem.
+
+Ono ne sme ostati u njihovim rukama.
+
+Ako država posle pada kriminalizovane vlasti samo promeni ministre, a ostavi opljačkane milijarde u privatnim džepovima, onda nije obnovila pravdu. Samo je legalizovala pljačku. Povraćaj opljačkane imovine zato mora biti jedan od prvih zadataka obnovljene republike.
+
+**Osnovno načelo je jednostavno:** sve što je stečeno zloupotrebom javne funkcije, nameštenim tenderima, koruptivnim ugovorima, političkim uticajem, prikrivenim vlasništvom, ofšor strukturama ili kriminalnim vezama mora biti vraćeno državi.
+
+Ne simbolično. Ne delimično. Ne kroz nagodbe koje čuvaju bogatstvo otimača.
+
+Već stvarno, sistemski i do kraja.
+
+#### Specijalno tužilaštvo za visoku korupciju i pljačku države
+
+Mora biti osnovano posebno tužilaštvo sa isključivim mandatom da istražuje visoku političku korupciju, nezakonito bogaćenje funkcionera, zloupotrebu javnih nabavki, štetne državne ugovore i veze između političke vlasti, organizovanog kriminala i privilegovanih privatnih firmi.
+
+To tužilaštvo ne sme biti samo kancelarija sa novim natpisom. Mora imati sopstvenu tužilačku policiju, finansijske forenzičare, istražitelje za javne nabavke, stručnjake za pranje novca, IT forenziku, međunarodnu pravnu pomoć i pravo direktnog pristupa dokumentaciji državnih organa, banaka, katastra, poreske uprave, javnih preduzeća i registra stvarnih vlasnika.
+
+Njegov mandat mora obuhvatiti:
+
+- ispitivanje porekla imovine svih visokih funkcionera, članova njihovih porodica i povezanih lica;
+- istragu javnih nabavki, infrastrukturnih projekata, subvencija, državne pomoći i javno-privatnih partnerstava;
+- praćenje tokova novca kroz firme, podizvođače, konsultantske ugovore, fiktivne usluge, ofšor strukture i povezane posrednike;
+- zamrzavanje imovine za koju postoji osnovana sumnja da je stečena nezakonito;
+- pokretanje postupaka za oduzimanje nezakonito stečene imovine;
+- krivično gonjenje funkcionera, službenika, direktora javnih preduzeća, privatnih saučesnika i kriminalnih posrednika;
+- poništavanje ili raskid štetnih ugovora koji su zaključeni protiv interesa države.
+
+#### Povezana lica i skriveno vlasništvo
+
+Pljačka države retko se vodi na sopstveno ime. Imovina se prebacuje na bračne partnere, decu, roditelje, braću, sestre, kumove, prijatelje, poslovne partnere, advokate, direktore paravan-firmi i ofšor kompanije. Zato istraga ne sme stati na formalnom vlasniku.
+
+Mora se ispitivati stvarni vlasnik.
+
+Ako plata, prijavljena imovina i zakoniti prihodi ne mogu objasniti vile, stanove, zemljište, automobile, firme, gotovinu, umetnine, luksuzna putovanja i investicije povezane sa javnim funkcionerom, teret objašnjenja mora biti na onome ko tu imovinu uživa. Država ne mora da se pravi slepa pred očiglednim bogatstvom koje nema zakonito poreklo.
+
+Povezana lica koja su služila za prikrivanje imovine ne smeju biti zaštićena izgovorom da formalno nisu bila na funkciji. Ko čuva opljačkano, učestvuje u pljački.
+
+#### Zamrzavanje, zaplena i povraćaj
+
+U svim predmetima visoke korupcije mora postojati mogućnost hitnog zamrzavanja imovine kako bi se sprečilo njeno prebacivanje, prodaja, poklanjanje, iznošenje iz zemlje ili sakrivanje kroz nove pravne konstrukcije.
+
+Kada se utvrdi nezakonito poreklo, imovina mora biti trajno oduzeta i vraćena državi. To uključuje novac, nekretnine, udele u firmama, luksuznu robu, zemljište, opremu, vozila, račune u inostranstvu i svaku drugu korist nastalu iz koruptivne mreže.
+
+Oduzeta imovina mora ići u poseban **Fond za obnovu javnog interesa**, iz koga se finansiraju škole, bolnice, univerziteti, nezavisne institucije, zaštita uzbunjivača, obnova javnih preduzeća i obeštećenje građana koji su pretrpeli posledice državne korupcije.
+
+Novac ukraden od građana mora se vratiti građanima.
+
+#### Poništavanje štetnih ugovora
+
+Ugovori zaključeni radi bogaćenja političara, kriminalnih grupa i privilegovanih firmi ne mogu biti tretirani kao normalne poslovne obaveze države. Ako je ugovor nastao kroz korupciju, namešten tender, sukob interesa, prikriveno vlasništvo, politički pritisak, falsifikovanu dokumentaciju ili očigledno štetne uslove po državu, on mora biti poništen, raskinut ili revidiran.
+
+To naročito važi za:
+
+- infrastrukturne projekte sa naduvanim cenama;
+- javne nabavke sa unapred izabranim pobednikom;
+- ugovore sa tajnim aneksima;
+- poslove dodeljene firmama povezanim sa funkcionerima, kriminalnim grupama ili partijskim finansijerima;
+- projekte kod kojih su bezbednost, kvalitet i stručni nadzor žrtvovani radi brzine, propagande ili provizije;
+- koncesije, subvencije i javno-privatna partnerstva zaključena protiv javnog interesa.
+
+Država mora imati zakonski mehanizam za vanrednu reviziju svih velikih ugovora sklopljenih u periodu zarobljene vlasti. To ne znači pravni haos, niti napad na poštene privrednike. Naprotiv: to je način da se pravi pošteni privrednici odvoje od onih koji su tržište zamenili partijskim pristupom i kriminalnom zaštitom.
+
+Dobronamerni podizvođači, radnici i firme koje su pošteno obavile posao ne smeju biti kažnjeni zbog kriminala političkog vrha. Ali glavni nosioci koruptivnih aranžmana, stvarni korisnici i njihovi zaštitnici u državi moraju izgubiti i novac i položaj.
+
+#### Kada korupcija ubija
+
+Pljačka države nije apstraktna finansijska šteta. Ona ima ljudske posledice.
+
+Kada se tender namesti, ne bira se najbolji izvođač. Kada se cena naduva, novac ne ide u kvalitet, nadzor i bezbednost, već u provizije. Kada se dokumentacija krije, građani ne mogu da znaju ko je odgovoran. Kada institucije štite moćnike, opasnost ostaje neotklonjena.
+
+Tako nastaju tragedije.
+
+Novi Sad je pokazao krajnju cenu korupcije: kada se javni radovi pretvore u lanac političke promocije, netransparentnih ugovora, lošeg nadzora i bežanja od odgovornosti, posledice se ne mere samo milionima evra. Mere se ljudskim životima. Zato povraćaj opljačkane imovine nije samo ekonomsko pitanje. To je pitanje pravde za mrtve, sigurnosti za žive i opomene za buduće.
+
+> **Suštinski problem:** Ako neko može da se obogati na javnom projektu, sakrije tragove, prebaci imovinu na povezana lica, preživi promenu vlasti i nastavi da živi kao ugledni poslovni čovek, onda država nije pobedila korupciju. Korupcija je pobedila državu.
+
+#### Nema amnestije za pljačku države
+
+Ne sme biti političkih nagodbi kojima se krupnim akterima dozvoljava da zadrže deo bogatstva u zamenu za tišinu. Ne sme biti dogovora da se "ne talasa" zarad stabilnosti. Ne sme biti selektivne pravde koja kažnjava sitne izvršioce, a čuva one koji su osmislili sistem.
+
+Svako ko je učestvovao u pljački države mora znati da promena vlasti ne znači samo gubitak funkcije. Znači gubitak svega što je nezakonito stečeno.
+
+Funkcioner koji je od javne službe napravio privatni posao mora izgubiti imovinu. Firma koja je rasla na nameštenim tenderima mora izgubiti ugovore. Posrednik koji je prao novac mora izgubiti zaštitu. Kriminalac koji je dobijao državne poslove mora izgubiti pristup državi. Službenik koji je prikrivao dokumentaciju mora izgubiti položaj. Političar koji je trgovao ljudskim životima za provizije mora odgovarati pred zakonom.
+
+Povraćaj opljačkane države nije revanšizam.
+
+To je minimalni uslov da Srbija ponovo postane država.
+
+Jer republika koja ne ume da vrati ono što joj je ukradeno ne može ubediti građane da zakon važi. A država u kojoj zakon ne važi za najmoćnije nije država, već plen.
+
+**Srbija više ne sme biti plen!**
 
 
 

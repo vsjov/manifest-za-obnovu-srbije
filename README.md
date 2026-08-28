@@ -5,3 +5,32 @@
 Ovaj manifest ne pripada nijednoj stranci, vođi ili pokretu. Namenjen je građanima koji veruju da Srbija može biti slobodnija, pravednija, odgovornija i institucionalno zdravija država.
 
 **Autor:** [Vladimir Jovanović](https://github.com/vsjov) | **Godina:** 2026. | **Licenca:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+## Razvoj
+
+Za rad na sajtu potrebni su nativni Pannonico Pro sa podrškom za
+`rich-markdown` i Node.js 24 ili noviji. Omogućite da Pro CLI bude dostupan kao
+`pannonico`, a zatim instalirajte zaključane frontend zavisnosti:
+
+```sh
+npm ci
+```
+
+Proverite TypeScript kod za pregledač i izgradite Vite resurse zajedno sa
+sajtom:
+
+```sh
+npm run typecheck
+npm run build
+```
+
+Pokrenite integrisani razvojni režim Pannonico Pro-a, koji upravlja lokalnim
+Vite procesom projekta i zaustavlja ga zajedno sa serverom sajta:
+
+```sh
+pannonico watch .
+```
+
+Pannonico upisuje kompletan sajt u `dist/`. Ovaj repozitorijum prati taj
+direktorijum zato što GitHub Pages objavljuje njegov sadržaj sačuvan u
+repozitorijumu.

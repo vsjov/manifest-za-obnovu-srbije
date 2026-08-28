@@ -1,0 +1,9 @@
+en:
+  title: English
+  pluralLocale: en
+  dir: ltr
+
+sr-Latn:
+  title: Srpski
+  pluralLocale: sr
+  dir: ltr

@@ -1,0 +1,10 @@
+{{if has .pannonico "vite"}}
+{{with .pannonico.vite}}
+{{if .client}}<script type="module" src="{{.client}}"></script>{{end}}
+{{with get .entries "app"}}
+{{range .css}}<link rel="stylesheet" href="{{.}}">{{end}}
+      <script type="module" src="{{.file}}"></script>
+{{range .modulePreload}}<link rel="modulepreload" href="{{.}}">{{end}}
+{{end}}
+{{end}}
+{{end}}

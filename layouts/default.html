@@ -1,21 +1,21 @@
 <!doctype html>
-<html lang="{{#if lang}}{{lang}}{{else}}en{{/if}}">
+<html lang="{{.pannonico.language.code}}">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta generator="Pannonico" />
-    {{#if metaDescription}}
-    <meta name="description" content="{{metaDescription}}" />
-    {{/if}}
-    <title>{{title}}</title>
-    {{> head}}
+    <meta name="generator" content="Pannonico" />
+{{if has .page "metaDescription"}}
+    <meta name="description" content="{{.page.metaDescription}}" />
+{{end}}
+    <title>{{.page.title}}</title>
+{{template "meta/head" .}}
+{{template "vite" .}}
   </head>
-  {{> ga}}
   <body>
-    {{> header}}
+{{template "shell/header" .}}
     <main>
-      {{> @partial-block}}
+{{.pannonico.content}}
     </main>
-    {{> footer}}
+{{template "shell/footer" .}}
   </body>
 </html>

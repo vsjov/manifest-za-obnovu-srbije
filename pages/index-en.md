@@ -1,8 +1,7 @@
 ---
 title: Manifesto for the Renewal of Serbia
 lang: en
-translation:
-  - sr-Latn: index.md
+translationKey: manifesto
 layout: default
 headlineSections: true
 metaDescription: A set of principles written for every citizen of Serbia who sees that the current direction is leading to ruin and that a different Serbia is possible

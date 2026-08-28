@@ -1,0 +1,29 @@
+version: 1
+
+site:
+  url: https://vsjov.github.io/manifest-za-obnovu-srbije
+
+sitemap:
+  enabled: true
+
+validation:
+  html: error
+
+richMarkdown:
+  enabled: false
+  anchor: true
+  footnote: true
+
+vite:
+  root: .
+  output: frontend/.pannonico/vite
+  manifest: .vite/manifest.json
+  entries:
+    app: frontend/src/app.ts
+  buildCommand:
+    executable: npm
+    arguments: [run, assets:build]
+  devCommand:
+    executable: node
+    arguments: [node_modules/vite/bin/vite.js, --host, 127.0.0.1, --port, "5173"]
+  devServer: http://127.0.0.1:5173

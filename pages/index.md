@@ -1,8 +1,7 @@
 ---
 title: Manifest za obnovu Srbije
 lang: sr-Latn
-translation:
-  - en: index-en.md
+translationKey: manifesto
 layout: default
 headlineSections: true
 metaDescription: Skup načela napisanih za svakog građanina Srbije koji vidi da sadašnji pravac vodi u propast i da je drugačija Srbija moguća

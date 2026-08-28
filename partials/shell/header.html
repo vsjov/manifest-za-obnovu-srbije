@@ -1,0 +1,20 @@
+<header>
+  <nav aria-label="Page controls">
+    <span class="site-title">{{.page.title}}</span>
+    <div class="header-controls">
+      <div class="font-size-controls" role="group" aria-label="Font size">
+        <button class="btn-control" type="button" data-font-size="small" title="Small text">A−</button>
+        <button class="btn-control is-active" type="button" data-font-size="medium" title="Medium text">A</button>
+        <button class="btn-control" type="button" data-font-size="large" title="Large text">A+</button>
+      </div>
+      <button class="btn-control btn-theme" type="button" id="theme-toggle" title="Switch theme">Dark mode</button>
+{{if .pannonico.translations}}
+      <ul class="translation" aria-label="Translations">
+{{range .pannonico.translations}}
+        <li><a href="{{.url}}" lang="{{.code}}" hreflang="{{.code}}">{{.label}}</a></li>
+{{end}}
+      </ul>
+{{end}}
+    </div>
+  </nav>
+</header>

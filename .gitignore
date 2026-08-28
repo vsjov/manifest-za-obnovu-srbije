@@ -83,3 +83,6 @@ test-results
 .github/instructions/nx.instructions.md
 .codex
 .claude
+
+# Pannonico Vite intermediate output
+/frontend/.pannonico/

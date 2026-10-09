@@ -16,9 +16,9 @@
 // aligned to the main reading column.
 .section-headline-2 {
   // margin-top: var(--space-2xl);
-  margin-inline: calc(50% - 50vw);
+  margin-inline: calc(50% - 50cqw);
   padding-block: var(--space-xl);
-  padding-inline: max(var(--page-padding), calc(50vw - (var(--measure) / 2)));
+  padding-inline: max(var(--page-padding), calc(50cqw - (var(--measure) / 2)));
   background: transparent;
 
   > h2 {
@@ -38,6 +38,22 @@
 
 .section-headline-2:nth-of-type(even) {
   background: color-mix(in srgb, var(--color-surface) 72%, var(--color-heading) 10%);
+}
+
+// Pannonico appends footnotes after its heading wrappers. Until startup groups
+// them, keep the empty sources heading in the reading column without a band.
+// This also keeps the heading and list together when JavaScript is disabled.
+.section-headline-2:has(> h2:only-child) {
+  display: contents;
+
+  > h2 {
+    margin-block: var(--space-xl) var(--space-sm);
+    padding-bottom: 0;
+  }
+}
+
+.footnotes-sep {
+  display: none;
 }
 
 // Level 1 — major parts: strongest separation + accent underline.

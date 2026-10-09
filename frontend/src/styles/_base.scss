@@ -3,6 +3,8 @@
 // =============================================================================
 
 body {
+  // Full-width section bands use the body width, excluding the scrollbar.
+  container-type: inline-size;
   background-color: var(--color-bg);
   color: var(--color-text);
   font-family: var(--font-body);
@@ -17,6 +19,8 @@ p {
 }
 
 a {
+  // Long citation domains must wrap when the reader chooses large text.
+  overflow-wrap: anywhere;
   color: var(--color-accent);
   text-decoration: underline;
   text-decoration-thickness: 1px;

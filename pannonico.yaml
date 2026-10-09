@@ -1,5 +1,8 @@
 version: 1
 
+localization:
+  defaultLanguage: sr-Latn
+
 site:
   url: https://vsjov.github.io/manifest-za-obnovu-srbije
 

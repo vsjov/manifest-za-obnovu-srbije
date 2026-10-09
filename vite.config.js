@@ -19,6 +19,8 @@ export default defineConfig({
     rolldownOptions: {
       input: {
         app: 'frontend/src/app.ts',
+        // HTML loads this entry directly before the app, including in development.
+        styles: 'frontend/src/styles/index.scss',
       },
     },
   },

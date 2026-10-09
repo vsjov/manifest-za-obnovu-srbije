@@ -4,7 +4,6 @@
 import 'vite/modulepreload-polyfill'
 
 // Internal
-import './styles/index.scss'
 import { groupSources, observeHeaderHeight } from './document/layout'
 import { initializeAppearance } from './preferences/appearance'
 import { initializeLanguage } from './preferences/language'

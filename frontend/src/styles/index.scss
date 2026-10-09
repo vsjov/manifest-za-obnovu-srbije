@@ -1,9 +1,9 @@
 // =============================================================================
 // The Manifesto for a New Serbia - site stylesheet (entry point)
 //
-// Compiled by Vite from `frontend/src/app.ts`. Module order matters: tokens
-// must come first so the custom properties exist before any rule consumes
-// them.
+// Compiled as a standalone Vite entry and linked directly from HTML. Module
+// order matters: tokens must come first so the custom properties exist before
+// any rule consumes them.
 //
 // Goals: responsive layout, readable long-form typography, and generous white
 // space that clearly separates the manifesto's parts, chapters and principles.

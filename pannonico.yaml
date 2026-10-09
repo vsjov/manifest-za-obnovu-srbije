@@ -23,6 +23,7 @@ vite:
   manifest: .vite/manifest.json
   entries:
     app: frontend/src/app.ts
+    styles: frontend/src/styles/index.scss
   buildCommand:
     executable: npm
     arguments: [run, assets:build]

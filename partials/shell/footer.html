@@ -1,4 +1,4 @@
 <footer>
-  {{.page.title}} &copy; <a href="https://github.com/vsjov" target="_blank" rel="noopener noreferrer">Vladimir Jovanović</a> 2026.<br />
-  {{if eq .pannonico.language.code "sr-Latn"}}Napravljeno sa {{else}}Built with {{end}}<a href="https://www.npmjs.com/package/pannonico" target="_blank" rel="noopener noreferrer">Pannonico</a> ❤️
+  {{.page.title}} &copy; <a href="https://github.com/vsjov" target="_blank" rel="noopener noreferrer">{{if eq .pannonico.language.code "sr-Cyrl"}}Владимир Јовановић{{else}}Vladimir Jovanović{{end}}</a> 2026.<br />
+  {{if eq .pannonico.language.code "sr-Latn"}}Napravljeno sa {{else if eq .pannonico.language.code "sr-Cyrl"}}Направљено са {{else}}Built with {{end}}<a href="https://www.npmjs.com/package/pannonico" target="_blank" rel="noopener noreferrer">Pannonico</a> ❤️
 </footer>

@@ -7,3 +7,8 @@ sr-Latn:
   title: Srpski
   pluralLocale: sr
   dir: ltr
+
+sr-Cyrl:
+  title: Српски
+  pluralLocale: sr
+  dir: ltr

@@ -1,5 +1,8 @@
 version: 1
 
+localization:
+  defaultLanguage: sr-Latn
+
 site:
   url: https://vsjov.github.io/manifest-za-obnovu-srbije
 
@@ -20,6 +23,7 @@ vite:
   manifest: .vite/manifest.json
   entries:
     app: frontend/src/app.ts
+    styles: frontend/src/styles/index.scss
   buildCommand:
     executable: npm
     arguments: [run, assets:build]

@@ -1,10 +1,16 @@
-{{if eq .pannonico.language.code "sr-Latn"}}
+{{if ne .pannonico.language.code "en"}}
 <meta property="og:locale" content="sr_RS" />
 <meta property="og:locale:alternate" content="en_US" />
+{{if eq .pannonico.language.code "sr-Cyrl"}}
+<meta property="og:url" content="https://vsjov.github.io/manifest-za-obnovu-srbije/index-rs.html" />
+<meta property="og:image" content="https://vsjov.github.io/manifest-za-obnovu-srbije/assets/images/og_image_rs.png" />
+<meta name="twitter:image" content="https://vsjov.github.io/manifest-za-obnovu-srbije/assets/images/og_image_rs.png" />
+{{else}}
 <meta property="og:url" content="https://vsjov.github.io/manifest-za-obnovu-srbije/" />
 <meta property="og:image" content="https://vsjov.github.io/manifest-za-obnovu-srbije/assets/images/og_image_sr.png" />
-<meta property="og:image:alt" content="Manifest za obnovu Srbije" />
 <meta name="twitter:image" content="https://vsjov.github.io/manifest-za-obnovu-srbije/assets/images/og_image_sr.png" />
+{{end}}
+<meta property="og:image:alt" content="{{.page.title}}" />
 {{else}}
 <meta property="og:locale" content="en_US" />
 <meta property="og:locale:alternate" content="sr_RS" />

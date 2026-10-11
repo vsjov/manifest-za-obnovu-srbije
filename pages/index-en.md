@@ -44,7 +44,7 @@ metaDescription: A set of principles written for every citizen of Serbia who see
 
 According to the Bertelsmann Transformation Index for 2026, Serbia is classified as a **moderate autocracy** [^1] - a decline from its previous status as a defective democracy and its worst result since the overthrow of Milošević in 2000. Freedom House gives it a score of 53 out of 100, in steady year-on-year decline. [^3] On the BTI governance index, it received a score of 3.96, placing it in the category of "weak" governance. [^1] These are not abstract scores from reports. They are a description of a system that has been dismantled from within for years.
 
-This document is not the program of any party. It is not written for either East or West. It is a set of structural principles, a kind of constitutional philosophy, written for every citizen of Serbia who sees that the current direction leads to ruin and that a different Serbia is possible.
+This document is a set of structural principles, a kind of constitutional philosophy, written for every citizen of Serbia who sees that the current direction leads to ruin and that a different Serbia is possible. It is independent of party programs and the interests of East or West.
 
 The student movement that erupted after the collapse of the canopy at the Novi Sad railway station in November 2024, and grew into the largest continuous civic mobilization in Serbia's modern history, with more than 300,000 people gathered in Belgrade on March 15, 2025 [^5], around 140,000 at the student protest on June 28, 2025 [^39], and almost 200,000 at the "You and I, Slavija" protest on May 23, 2026 [^40] - showed something important: *apathy is not the natural state of the Serbian people. It was manufactured, and therefore it can be dismantled.*
 
@@ -266,7 +266,7 @@ Doctors, engineers, scientists, teachers, entrepreneurs, and other people who le
 - **Diaspora engagement:** Structured frameworks for diaspora investment, mentorship, knowledge transfer, and civic participation, including the right to vote in **national** elections, must be established. But not in local elections, which the SNS regime has abused through the importation of voters. The diaspora is not a foreign constituency. It is Serbia abroad. At present, diaspora remittances relative to investment amount to only 2.9% [^22], representing an enormous pool of unused capital blocked by administrative barriers, government inefficiency, and corruption.
 - **Remote contribution:** Not everyone can or wants to physically return. Legal and institutional frameworks must be created so that diaspora professionals can contribute remotely, as consultants, board members, lecturers, and investors. The walls between "those who left" and "those who stayed" must be torn down.
 
-> **The promise:** When a young Serbian doctor working in a German hospital reads the news from Belgrade and, for the first time in many years, thinks "maybe it is time to return" - that is the moment in which this manifesto has succeeded. Not in the adoption of a law, not in the outcome of an election, but in the restoration of hope that makes return possible.
+> **The promise:** When a young Serbian doctor working in a German hospital reads the news from Belgrade and, for the first time in many years, thinks "maybe it is time to return" - that is the moment in which this manifesto has succeeded. Success is measured by the renewed hope that makes return possible, rather than by the adoption of a law or the outcome of an election.
 
 
 
@@ -384,9 +384,7 @@ If, after the fall of a criminalized government, the state merely changes minist
 
 **The basic principle is simple:** everything acquired through abuse of public office, rigged tenders, corrupt contracts, political influence, hidden ownership, offshore structures, or criminal connections must be returned to the state.
 
-Not symbolically. Not partially. Not through settlements that preserve the wealth of those who took it.
-
-But in reality, systemically, and to the end.
+The assets must actually be returned, in full and through the system, without settlements that preserve the wealth of those who took them.
 
 #### Special prosecutor's office for high-level corruption and the plunder of the state
 

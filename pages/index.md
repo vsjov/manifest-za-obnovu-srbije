@@ -44,7 +44,7 @@ metaDescription: Skup načela napisanih za svakog građanina Srbije koji vidi da
 
 Srbija je prema Bertelsmanovom indeksu transformacije za 2026. godinu klasifikovana kao **umerena autokratija** [^1] - pad sa prethodnog statusa manjkave demokratije i najgori rezultat od svrgavanja Miloševića 2000. godine. Freedom House joj dodeljuje ocenu 53 od 100, u stalnom opadanju iz godine u godinu. [^3] Na BTI indeksu upravljanja dobila je ocenu 3,96, svrstanu u kategoriju "slabo" upravljanje. [^1] To nisu apstraktne ocene iz izveštaja. To je opis sistema koji je godinama razgrađivan iznutra.
 
-Ovaj dokument nije program nijedne stranke. Ne piše se ni za Istok ni za Zapad. Ovo je skup strukturnih načela, neka vrsta ustavne filozofije, napisana za svakog građanina Srbije koji vidi da sadašnji pravac vodi u propast i da je drugačija Srbija moguća.
+Ovaj dokument je skup strukturnih načela, neka vrsta ustavne filozofije, namenjen svakom građaninu Srbije koji vidi da sadašnji pravac vodi u propast i da je drugačija Srbija moguća. Nezavisan je od stranačkih programa i interesa Istoka ili Zapada.
 
 Studentski pokret koji je izbio nakon rušenja nadstrešnice novosadske železničke stanice u novembru 2024. i koji je prerastao u najveću kontinuiranu građansku mobilizaciju u modernoj istoriji Srbije, sa više od 300.000 ljudi okupljenih u Beogradu 15. marta 2025. [^5], oko 140.000 na studentskom protestu 28. juna 2025. [^39] i gotovo 200.000 na protestu "Ti i ja, Slavija" 23. maja 2026. [^40] - pokazao je nešto važno: *apatija nije prirodno stanje srpskog naroda. Ona je proizvedena, pa može i da se razgradi.*
 
@@ -266,7 +266,7 @@ Lekari, inženjeri, naučnici, nastavnici, preduzetnici i drugi ljudi koji su ot
 - **Angažovanje dijaspore:** Strukturirani okviri za dijasporne investicije, mentorstvo, prenos znanja i građansko učešće, uključujući pravo glasa na **nacionalnim** izborima moraju biti uspostavljeni. Ali ne i lokalnim, što je zloupotrebljeno od strane SNS režima kroz uvoz birača. Dijaspora nije strana izborna jedinica. To je Srbija u inostranstvu. Trenutno, doznake dijaspore u odnosu na investicije iznose samo 2,9% [^22] što predstavlja ogroman fond neiskorišćenog kapitala koji blokiraju administrativne barijere, neefikasnost uprave i korupcija.
 - **Doprinos na daljinu:** Ne može i ne želi svako fizički da se vrati. Stvoriti zakonske i institucionalne okvire da profesionalci iz dijaspore mogu da doprinose na daljinu. Kao konsultanti, članovi upravnih odbora, predavači i investitori. Zidovi između "onih koji su otišli" i "onih koji su ostali" moraju se srušiti.
 
-> **Obećanje:** Kada mladi srpski lekar koji radi u nemačkoj bolnici pročita vesti iz Beograda i prvi put posle mnogo godina pomisli "možda je vreme da se vratim" - to je trenutak u kome je ovaj manifest uspeo. Ne u usvajanju zakona, ne u ishodu izbora, već u obnavljanju nade koja povratak čini mogućim.
+> **Obećanje:** Kada mladi srpski lekar koji radi u nemačkoj bolnici pročita vesti iz Beograda i prvi put posle mnogo godina pomisli "možda je vreme da se vratim" - to je trenutak u kome je ovaj manifest uspeo. Uspeh se meri obnovljenom nadom koja povratak čini mogućim, a ne usvojenim zakonom ili ishodom izbora.
 
 
 
@@ -384,9 +384,7 @@ Ako država posle pada kriminalizovane vlasti samo promeni ministre, a ostavi op
 
 **Osnovno načelo je jednostavno:** sve što je stečeno zloupotrebom javne funkcije, nameštenim tenderima, koruptivnim ugovorima, političkim uticajem, prikrivenim vlasništvom, ofšor strukturama ili kriminalnim vezama mora biti vraćeno državi.
 
-Ne simbolično. Ne delimično. Ne kroz nagodbe koje čuvaju bogatstvo otimača.
-
-Već stvarno, sistemski i do kraja.
+Imovina mora zaista da bude vraćena, u celosti i kroz sistem, bez nagodbi koje čuvaju bogatstvo otimača.
 
 #### Specijalno tužilaštvo za visoku korupciju i pljačku države
 
